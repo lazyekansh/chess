@@ -39,7 +39,7 @@
 
 ## Overview
 
-**Lazy Chess** is a web-based multiplayer chess application that uses WebRTC technology to enable real-time peer-to-peer gameplay without requiring a traditional backend server. The application features a sleek glassmorphism UI with support for both dark and light themes, multiple game modes, and responsive design optimized for mobile devices.
+**Lazy Chess** is a web based multiplayer chess application that uses WebRTC technology to enable real-time peer-to-peer gameplay without requiring a traditional backend server. The application features a sleek glassmorphism UI with support for both dark and light themes, multiple game modes, and responsive design optimized for mobile devices.
 
 Built with Next.js 14 and React, this Progressive Web App (PWA) can be installed on any device for a native-like experience.
 
